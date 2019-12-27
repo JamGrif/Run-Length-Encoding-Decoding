@@ -1,0 +1,4 @@
+﻿  EncodeDecode.cpp
+C:\Users\jamie\Documents\C++ things\Run-Length-Encoding-Decoding\EncodeDecode.cpp(49,28): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jamie\Documents\C++ things\Run-Length-Encoding-Decoding\EncodeDecode.cpp(163,37): warning C4018: '<': signed/unsigned mismatch
+  Run-Length-Encoding-Decoding.vcxproj -> C:\Users\jamie\Documents\C++ things\Run-Length-Encoding-Decoding\Debug\Run-Length-Encoding-Decoding.exe
